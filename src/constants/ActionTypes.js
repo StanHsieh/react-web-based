@@ -1,0 +1,3 @@
+export const FETCH_APP_DATA = 'FETCH_APP_DATA'
+export const FETCH_HOME_DATA = 'FETCH_HOME_DATA'
+

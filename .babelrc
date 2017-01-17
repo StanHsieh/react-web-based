@@ -1,0 +1,8 @@
+{
+    "presets": ["es2015", "react", "stage-1"],
+    "plugins": [
+    	["transform-runtime",{ "polyfill": false, "regenerator": true }],
+        "transform-es3-member-expression-literals",
+        "transform-es3-property-literals"
+    ]
+}
